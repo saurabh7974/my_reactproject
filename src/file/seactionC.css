@@ -1,0 +1,86 @@
+.our-services{
+
+    background: #fff;
+  
+    padding: 4rem 0;
+  
+  }
+  .shadow-effect{
+
+    position: relative;
+  
+  }
+  .text-green{
+
+    color: #9adf46;
+  
+  }
+.services{
+
+  width: 100%;
+
+  background: #fff;
+
+  display: block;
+
+ 
+
+  position: relative;
+
+  border-radius: .25rem;
+
+  -moz-transition: all .3s ease;
+
+  -o-transition: all .3s ease;
+
+  -webkit-transition: all .3s ease;
+
+  -ms-transition: all .3s ease;
+
+  transition: all .3s ease;
+
+    margin-bottom: 30px;
+
+  -webkit-box-shadow: 0px 0px 6px 0px #eee;
+
+  box-shadow: 0px 0px 6px 0px #eee;
+
+  text-align: center;
+
+}  
+
+.services figure{
+
+    width: 70px;
+  
+    height: 70px;
+  
+    margin: 0 auto;
+  
+    border-radius: 50%;
+  
+    background: #eff2ff;
+  
+    margin-bottom: 15px;
+  
+    display: flex;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+  }
+  
+  
+  
+  .services h4{
+  
+      font-size: 15px;
+  
+      font-weight: 600;
+  
+      margin-bottom: 10px;
+  
+      text-transform: capitalize;
+  
+  }
